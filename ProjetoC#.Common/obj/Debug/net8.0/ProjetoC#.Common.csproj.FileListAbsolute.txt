@@ -1,0 +1,11 @@
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\ProjetoC#\ProjetoC#.Common\bin\Debug\net8.0\ProjetoC#.Common.deps.json
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\ProjetoC#\ProjetoC#.Common\bin\Debug\net8.0\ProjetoC#.Common.dll
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\ProjetoC#\ProjetoC#.Common\bin\Debug\net8.0\ProjetoC#.Common.pdb
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\ProjetoC#\ProjetoC#.Common\obj\Debug\net8.0\ProjetoC#.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\ProjetoC#\ProjetoC#.Common\obj\Debug\net8.0\ProjetoC#.Common.AssemblyInfoInputs.cache
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\ProjetoC#\ProjetoC#.Common\obj\Debug\net8.0\ProjetoC#.Common.AssemblyInfo.cs
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\ProjetoC#\ProjetoC#.Common\obj\Debug\net8.0\ProjetoC#.Common.csproj.CoreCompileInputs.cache
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\ProjetoC#\ProjetoC#.Common\obj\Debug\net8.0\ProjetoC#.Common.dll
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\ProjetoC#\ProjetoC#.Common\obj\Debug\net8.0\refint\ProjetoC#.Common.dll
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\ProjetoC#\ProjetoC#.Common\obj\Debug\net8.0\ProjetoC#.Common.pdb
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\ProjetoC#\ProjetoC#.Common\obj\Debug\net8.0\ref\ProjetoC#.Common.dll
